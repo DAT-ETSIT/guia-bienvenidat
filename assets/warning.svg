@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 5190 4140"
+   shape-rendering="geometricPrecision"
+   text-rendering="geometricPrecision"
+   image-rendering="optimizeQuality"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="exclamation-triangle-line.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.16123401"
+     inkscape:cx="2895.8441"
+     inkscape:cy="1854.3794"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M2461 3452c-7-17-11-36-11-55 0-20 4-38 11-55s18-33 32-47 30-25 47-32 36-11 55-11c20 0 38 4 56 11 17 7 32 17 46 31 0 0 1 0 1 1 14 14 25 30 32 47s11 36 11 55c0 20-4 38-11 55s-18 33-32 47-30 25-47 32-36 11-55 11c-20 0-38-4-55-11s-32-17-46-31c0 0-1 0-1-1-14-14-25-30-32-47zm218-3236c-7-11-16-20-27-25-14-7-33-10-57-10s-43 3-57 10c-11 5-20 14-27 25-1 1-1 2-2 3L243 3774c-13 21-24 45-34 72-10 29-19 62-25 98-1 5-2 10-2 15h4828c0-5-1-10-2-15-7-36-15-69-25-98-10-27-21-51-34-72v-1L2682 217l-1-1zm51-187c42 21 76 52 102 93l2266 3555c1 1 1 2 2 3 20 32 37 68 50 107 13 38 24 79 32 125 4 22 6 41 6 58 0 41-10 76-30 105-23 33-56 53-98 61-13 2-25 4-37 4H164c-12 0-24-1-37-4-42-8-75-28-98-61-20-29-30-64-30-105 0-17 2-37 6-58 8-46 19-87 32-125 14-40 31-75 50-107l1-1L2355 123v-1c26-41 59-72 102-93 39-19 85-29 136-29s96 10 136 29zm-46 3038c0 34-24 56-55 65-11 3-23 5-35 5s-24-2-35-5c-31-9-55-31-55-65l-115-1502v-1c0-37 55-59 125-68 25-3 52-5 80-5 27 0 54 2 80 5 70 9 125 31 125 68v2l-115 1501z"
+     fill-rule="nonzero"
+     id="path2"
+     style="stroke-width:100;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ed2d1b;stroke-opacity:1;fill:#ed2d1b;fill-opacity:1" />
+</svg>
